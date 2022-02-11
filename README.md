@@ -1,4 +1,4 @@
-# firstFrontEnd project
+# FrontEnd code along project
 
 ALL CREDITS TO Gary Simon from the channel DesignCourse on Youtube!!!
 
